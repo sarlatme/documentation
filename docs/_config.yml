@@ -1,3 +1,5 @@
-title: Meven Docs
-theme: just-the-docs
+title: Documentation perso
 url: https://tonpseudo.github.io/meven-docs
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
